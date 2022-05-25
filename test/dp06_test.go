@@ -1,8 +1,8 @@
 package test
 
 import (
-	"olives.org/go/learn/design_patterns/src/dp06_AdapterPattern"
-	"olives.org/go/learn/design_patterns/utils"
+	"github.com/symphony09/DesignPatternOnGo/src/dp06_AdapterPattern"
+	"github.com/symphony09/DesignPatternOnGo/utils"
 	"testing"
 )
 

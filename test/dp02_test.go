@@ -1,8 +1,8 @@
 package test
 
 import (
-	"olives.org/go/learn/design_patterns/src/dp02_AbstractFactoryPattern"
-	"olives.org/go/learn/design_patterns/utils"
+	"github.com/symphony09/DesignPatternOnGo/src/dp02_AbstractFactoryPattern"
+	"github.com/symphony09/DesignPatternOnGo/utils"
 	"testing"
 )
 

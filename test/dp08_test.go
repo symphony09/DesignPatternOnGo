@@ -1,7 +1,7 @@
 package test
 
 import (
-	"olives.org/go/learn/design_patterns/src/dp08_ProxyPattern"
+	"github.com/symphony09/DesignPatternOnGo/src/dp08_ProxyPattern"
 	"testing"
 )
 
